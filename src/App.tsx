@@ -7,17 +7,17 @@ import Intro from "./components/Intro";
 import Services from "./components/Services";
 
 const App = () => {
-	return (
-		<div className="w-full flex flex-col">
-			<Header />
-			<Services />
-			<Collections />
-			<Explore />
-			<Intro />
-			<Banner />
-			<Footer />
-		</div>
-	);
+  return (
+    <div className="w-full flex flex-col">
+      <Header />
+      <Services />
+      <Collections />
+      <Explore />
+      <Intro />
+      <Banner />
+      <Footer />
+    </div>
+  );
 };
 
 export default App;
