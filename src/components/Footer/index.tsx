@@ -8,7 +8,7 @@ const Footer = () => {
             <p>📍 436 Thạnh Phú, An Thạnh, Thuận An</p>
             <p>📞 091 725 61 36</p>
             <p>📧 sonmocinterior@gmail.com</p>
-            <p>🌐 www.interior.vn</p>
+            <p>🌐 www.son-moc-interior.vercel.app</p>
           </div>
           <div className="w-full h-[200px] rounded-lg overflow-hidden shadow-md">
             <iframe
