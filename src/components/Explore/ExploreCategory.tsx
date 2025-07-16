@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { IoIosArrowForward, IoIosArrowBack, IoMdClose } from "react-icons/io";
-import classNames from "classnames";
 
 const ExploreCategory = ({
   title,
